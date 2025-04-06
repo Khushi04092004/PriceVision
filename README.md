@@ -11,7 +11,7 @@ A web application that predicts house prices based on property features.
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
-4. Access the web interface at http://localhost:5000
+4. Access the web interface at http://localhost:8080
 
 ## Model Information
 The application uses a machine learning model trained on housing data to predict prices.
